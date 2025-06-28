@@ -31,7 +31,7 @@ const Portfolio = () => {
                 <div className="timeline">
                     <div className="timeline-item">
                         <h3>Sr Software Developer</h3>
-                        <p>Intrics Solutions Pvt Ltd (Feb 2024 - Present)</p>
+                        <p>Intrics Solutions Pvt Ltd (Feb 2024 - Feb 2025)</p>
                     </div>
                     <div className="timeline-item">
                         <h3>Associate</h3>
